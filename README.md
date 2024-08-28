@@ -1,4 +1,4 @@
-# cecilia me chamo cecilia tenho 15 anos, estudo no primeiro do ensino médio do colégio amyntas de barros, estou fazendo um projeto para a matéria de pensamento compultacional.
+# oii me chamo cecilia tenho 15 anos, estudo no primeiro do ensino médio do colégio amyntas de barros, estou fazendo um projeto para a matéria de pensamento compultacional.
 
 <!DOCTYPE html>
 <html lang="en">
